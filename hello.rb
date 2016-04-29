@@ -1,2 +1,2 @@
-print hello
+#! /usr/bin/ruby
 print word
